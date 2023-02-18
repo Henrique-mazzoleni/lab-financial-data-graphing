@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+#chartHeader {
+  display: flex;
+  justify-content: space-between;
+}

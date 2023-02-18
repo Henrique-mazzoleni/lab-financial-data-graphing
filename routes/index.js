@@ -3,7 +3,6 @@ const moment = require('moment')
 
 /* GET home page */
 router.get("/", async (req, res, next) => {
-  
   res.render("index");
 });
 
